@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📫 How to reach me: http://www.pachadata.com/
+- 📫 or on LinkedIn : https://fr.linkedin.com/in/rudibruchez
+
 <!--
 **rudi-bruchez/rudi-bruchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
