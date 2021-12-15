@@ -1,6 +1,4 @@
-### Hi there 👋
-
-France based SQL Server independant specialist.
+### France based SQL Server independant specialist 👋
 
 - 📫 How to reach me: http://www.pachadata.com/
 - 📫 or on LinkedIn : https://fr.linkedin.com/in/rudibruchez
