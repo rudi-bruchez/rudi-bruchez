@@ -3,6 +3,8 @@
 - 📫 How to reach me: http://www.pachadata.com/
 - 📫 or on LinkedIn : https://fr.linkedin.com/in/rudibruchez
 
+![](./logo_rudi_bruchez-300x276.png)
+
 <!--
 **rudi-bruchez/rudi-bruchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
