@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+France based SQL Server independant specialist.
+
 - 📫 How to reach me: http://www.pachadata.com/
 - 📫 or on LinkedIn : https://fr.linkedin.com/in/rudibruchez
 
+<!--
 <img src="./logo_rudi_bruchez-300x276.png" alt="logo" width="150"/>
 
-<!--
 **rudi-bruchez/rudi-bruchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
